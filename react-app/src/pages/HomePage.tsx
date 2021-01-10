@@ -20,7 +20,7 @@ export default class HomePage extends React.Component {
         <Row className="mt-5">
           <Col>
             <h1>Cloud-Native Microservices.</h1>
-            <p className="mt-4">Lately, I’ve been all-in on AWS (Hey! I do work there…) working on large-scale eCommerce applications and microservices in <strong>Kotlin </strong>with some <strong>AngularJS</strong> and a lot of <strong>CloudFormation</strong> (more recently <strong>AWS CDK</strong>) automating everything. The question I always ask myself which drives me to automate everything as much as possible is <strong>“How can I do less?”</strong> because time is a scarce resource, and you want to focus it on that what is most important (in my case, building applications).</p>
+            <p className="mt-4">Lately, I’ve been all-in on AWS working on large-scale eCommerce applications and microservices in <strong>Kotlin </strong>with some <strong>AngularJS</strong> and a lot of <strong>CloudFormation</strong> (more recently <strong>AWS CDK</strong>) automating everything. The question I always ask myself which drives me to automate everything as much as possible is <strong>“How can I do less?”</strong> because time is a scarce resource, and you want to focus it on that what is most important (in my case, building applications).</p>
           </Col>
         </Row>
         <Row className="mt-5">
