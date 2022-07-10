@@ -1,0 +1,20 @@
+.main-content {
+  text-align: center;
+  font-size: 3em;
+}
+
+.main-content > a {
+  padding-right: 1em;
+}
+
+.main-content > a:last-child {
+  padding-right: 0 !important;
+}
+
+.profile-image {
+  border-radius: 100%;
+  border-width: 2px;
+  border-style: solid;
+  border-color: white;
+  height: 15em;
+}

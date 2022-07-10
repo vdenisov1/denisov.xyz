@@ -10,9 +10,7 @@ export default class App extends React.Component {
     return (
       <>
         <div className="v-app">
-          <Header />
           <Body />
-          <Footer />
         </div>
       </>
     );
